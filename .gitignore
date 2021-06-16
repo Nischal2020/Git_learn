@@ -1,1 +1,8 @@
-mylogs.log
+#   look for working tree only
+/mylogs.log
+
+# for specific extesion
+*.log
+# for specific folder
+ignore/
+
